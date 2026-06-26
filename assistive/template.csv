@@ -1,0 +1,8 @@
+K,mode,F,U,is_continuation,continuation_point,script_name
+30,fixedU,3000,sqrt(901/899),FALSE,0,F3000_Reci
+30,fixedU,6000,sqrt(901/899),FALSE,0,F6000_Reci
+30,fixedU,9000,sqrt(901/899),FALSE,0,F9000_Reci
+30,fixedU,15000,sqrt(901/899),FALSE,0,F15000_Reci
+30,fixedU,18000,sqrt(901/899),FALSE,0,F18000_Reci
+30,fixedU,21000,sqrt(901/899),FALSE,0,F21000_Reci
+30,fixedU,30000,sqrt(901/899),FALSE,0,F30000_Reci
